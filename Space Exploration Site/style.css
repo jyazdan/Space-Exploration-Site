@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  color: plum;
+  text-align: center;
+  font-family: 'Trispace', sans-serif;
+}
+
+.hero {
+  background-image: url("images/stars.webp");
+  background-size: cover;
+  height: 270px;
+}
+
+.apply-btn {
+  padding: 6px 12px;
+  background-color: white;;
+  color: plum;
+  border: none;
+  cursor: pointer;
+  font-family: 'Trispace', sans-serif;
+  font-weight: bold;
+}
+
+#id {
+  text-shadow: 0px 0px 4px black;
+}
+
+.underline {
+  border-bottom: 4px solid white;
+}
+
+#logo {
+  width: 150px;
+  margin: -15px;
+}
